@@ -46,6 +46,7 @@ function Person(){
 
 var person = new Person();
 
+
 console.log(person.firstName,person.lastName);
 
 
